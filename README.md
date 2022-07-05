@@ -27,7 +27,7 @@ The equipment used has also changed overtime. In the 1960s, wraps were used excl
 ![straps_vs_time](images/straps_vs_time.png)
 ![raw_vs_time](images/raw_vs_time.png)
 ![single_vs_time](images/single_vs_time.png)
-![multi_vs_time](images/multi_vs_time.png)
+![multi_vs_time](images/mulit_vs_time.png)
 
 ## Conclusion
 
