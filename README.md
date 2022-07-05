@@ -14,14 +14,14 @@ Other demographics have changed as well. In 1964, the age of the average powerli
 ![age_vs_time](images/age_vs_time.png)
 ![bodyweight_vs_time](images/bodyweight_vs_time.png)
 
-The oscilation in the squat and bench press makes it difficult to find any trend in the data, but the average deadlift seems to be steadily decreasing in weight. This is surprising considering that the average weight of competitors has increased overtime. In addition, the the total weight lifting from the three events has been in decline, likely because of the decline in the bench press.
+The oscilation in the squat and bench press makes it difficult to find any trend in the data, but the average deadlift seems to be steadily decreasing in weight. This is surprising considering that the average weight of competitors has increased overtime. In addition, the the total weight lifted from the three events combined has been in decline, likely because of the decline in the bench press.
 
 ![squat_vs_time](images/squat_vs_time.png)
 ![bench_vs_time](images/bench_vs_time.png)
 ![deadlift_vs_time](images/deadlift_vs_time.png)
 ![totalweight_vs_time](images/totalweight_vs_time.png)
 
-The equipment used has also changed overtime. In the 1960s, wraps were used exclusively. But as the sport evolved, wraps were abandaned for more novel equipment, such as straps. One of the most popular equipment choices in the last decade is "Raw", where competitors use no additional equipment while competing. This option had been rarely chosen prior to 2010. From the 1980s until the early 2000s, single-ply was almost exclusively used, but has decrased over the last decade. Despite the increase in use of straps, this equipment is still seldom used. 
+The equipment used has also changed overtime. In the 1960s, wraps were used exclusively. But as the sport evolved, wraps were abandaned for more novel equipment, such as single-ply. One of the most popular equipment choices in the last decade is "Raw", where competitors use no additional equipment while competing. This option had been rarely chosen prior to 2010. From the 1980s until the early 2000s, single-ply was almost exclusively used, but has decrased sharply over the last decade. Despite a sudden increase in the use of straps in the 2010s, this equipment is still seldom used. 
 
 ![wraps_vs_time](wraps_vs_time.png) 
 ![straps_vs_time](images/straps_vs_time.png)
@@ -31,4 +31,8 @@ The equipment used has also changed overtime. In the 1960s, wraps were used excl
 
 ## Conclusion
 
-Powerlifting has changed in various ways since the 1960s. Women are participating more frequently and the age and weight of participants has sharply increased. Unfortunately, this data only illustrates these changes, rather than telling us why these changes have occured. Future work should analyze the data of other divisions, including comparisons among multiple divisions. These analyses could bring insight as to which divisions are most successful or unique in their performance.   
+Powerlifting has changed in various ways since the 1960s. Women are participating more frequently and the age and weight of participants has sharply increased. Unfortunately, this data only illustrates these changes, rather than telling us why these changes have occured. 
+
+There was a strange issue in the dataset where the values for several parameters would decrease near 0 around 2018-2019. This could be due to a lack of data for these years. These years should be ignored while analyzing the data, but they were included regardless in case the data is accurate. 
+
+Future work should analyze the data of other divisions, including comparisons among multiple divisions. These analyses could bring insight as to which divisions are most successful or unique in their performance.   
