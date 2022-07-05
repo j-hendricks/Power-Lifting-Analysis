@@ -18,7 +18,7 @@ The oscilation in the squat and bench press makes it difficult to find any trend
 
 ![squat_vs_time](images/squat_vs_time.png)
 ![bench_vs_time](images/bench_vs_time.png)
-![deadlift_vs_time](images/deadliftt_vs_time.png)
+![deadlift_vs_time](images/deadlift_vs_time.png)
 ![totalweight_vs_time](images/totalweight_vs_time.png)
 
 The equipment used has also changed overtime. In the 1960s, wraps were used exclusively. But as the sport evolved, wraps were abandaned for more novel equipment, such as straps. One of the most popular equipment choices in the last decade is "Raw", where competitors use no additional equipment while competing. This option had been rarely chosen prior to 2010. From the 1980s until the early 2000s, single-ply was almost exclusively used, but has decrased over the last decade. Despite the increase in use of straps, this equipment is still seldom used. 
